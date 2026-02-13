@@ -2,20 +2,19 @@
  
 This repository is the central document store for  requirements engineering deliverables for the Student Feedback Review System project (customer: EduTech Institute Singapore, ETIS). It provides a single, organized location for customer provided inputs and vendor produced outputs, ensuring traceability and version control.
 
-**Repository Structure**
+Repository Structure
 /
 ├─ customer_documents/
 │  ├─ ETIS_Models/
 │  │  └─ (Customer-provided diagrams/models, e.g., use case diagram)
 │  └─ (Customer-provided core documents, e.g., Project Specification)
-│
 ├─ vendor_documents/
 │  ├─ drafts/
 │  │  └─ (Work-in-progress vendor documents, templates, interim revisions)
 │  └─ complete/
-│     └─ (Finalized / approved vendor documents for submission)
-│
+│     └─ (Finalized/approved vendor documents for submission)
 └─ README.md
+
 
 **How to Use This Repoistory**
 1. Place customer-provided documents/models into customer_documents/.
